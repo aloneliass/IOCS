@@ -1,4 +1,4 @@
-event_id,type,value,comment
+ï»¿event_id,type,value,comment
 15322,md5,1635684e729cfa8911a6fec5448a1375,MD5 of 8187240dafbc62f2affd70da94295035c4179c8e3831cb96bdd9bd322e22d029
 15322,md5,2183043b19f4707f987d874ce44389e3,MD5 of 9f62c1d330dddad347a207a6a565ae07192377f622fa7d74af80705d800c6096
 15322,md5,764a838236f5dceb3d199059ad36311e,MD5 of 83406905710e52f6af35b4b3c27549a12c28a628c492429d3a411fdb2d28cc8c
@@ -1828,13 +1828,13 @@ event_id,type,value,comment
 ,sha256,3e00dd72e68bec62f2b0d9899f915a7584d55cf2d3895abc55170e2b0fd0ab94,webshell
 ,sha256,767afddafa6cfa00fab35df35992de4e157138922daad30d20a34bb2924e56d3,webshell
 ,sha256,514268d6c9638bb9b46c4c4a7d6a13e51e93e263c1199809c25d7bb7b4c37ab8,webshell
-,ip-dst,154.39.140.208,EPLDT 
-,ip-dst,216.163.7.130,Safari 
-,ip-dst,50.193.219.33,Safari 
-,ip-dst,118.194.239.178,EPLDT 
-,ip-dst,213.250.168.248,EPLDT 
-,ip-dst,194.165.16.162,EPLDT 
-,ip-dst,82.163.22.203,sarawakenergy 
+,ip-dst,154.39.140.208,EPLDTÂ 
+,ip-dst,216.163.7.130,SafariÂ 
+,ip-dst,50.193.219.33,SafariÂ 
+,ip-dst,118.194.239.178,EPLDTÂ 
+,ip-dst,213.250.168.248,EPLDTÂ 
+,ip-dst,194.165.16.162,EPLDTÂ 
+,ip-dst,82.163.22.203,sarawakenergyÂ 
 ,ip-dst,207.243.136.135,universe
 ,ip-dst,32.132.101.42,universe
 ,ip-dst,27.44.204.185,universe
